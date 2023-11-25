@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cyber-sphere/static/css/main.6fc05a99.css",
+    "main.js": "/cyber-sphere/static/js/main.13776af4.js",
+    "index.html": "/cyber-sphere/index.html",
+    "main.6fc05a99.css.map": "/cyber-sphere/static/css/main.6fc05a99.css.map",
+    "main.13776af4.js.map": "/cyber-sphere/static/js/main.13776af4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc05a99.css",
+    "static/js/main.13776af4.js"
+  ]
+}
